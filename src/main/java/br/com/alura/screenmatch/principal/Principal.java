@@ -81,4 +81,5 @@ public class Principal {
     private void listarSeriesBuscadas() {
         dadosSeries.forEach(System.out::println);
     }
+
 }
